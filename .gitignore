@@ -1,3 +1,6 @@
+sec00.*
+sec02*
+ted-*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
